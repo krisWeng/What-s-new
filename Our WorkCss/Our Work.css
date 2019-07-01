@@ -304,7 +304,7 @@ section{
 	text-decoration: none;
 }
 /*文字动画效果*/
-.no p,
+/*.no p,
 .no h2,
 .no a,
 .no span,
@@ -321,7 +321,7 @@ hr,
 .screen2-box-inner span,
 .screen2-box-inner a{
 	transition: 2s;
-}
+}*/
 
 /*第二部分*/
 .second-part{

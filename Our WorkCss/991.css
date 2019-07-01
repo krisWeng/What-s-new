@@ -1,0 +1,23 @@
+@media only screen and (max-width: 991px) {
+	.nav-List .left{
+		display: none;
+	}
+	.nav-List .right{
+		float: right;
+	}
+	.footer-box-left{
+		width: 50%;
+		margin: 0;
+		float: left;
+	}
+	.footer-box-right{
+		width: 50%;
+		margin: 0;
+		float: right;
+	}
+	.imgList-img,
+	.imgList-img a{
+		width: 85%;
+		height: 486px;
+	}
+}

@@ -223,7 +223,7 @@ body{
     left: 0;
     background-color: #fff;
 }
-.TopNav-content-Right:hover .one{
+.TopNav-content-Right:hover .two{
 	transition: 0.3s;
 	transform: translateY(-2px);
 }
@@ -469,7 +469,7 @@ hr{
 	width: 100%;
 	height: 100%;
 	position: relative;
-	top: -28%;
+	top: -14%;
 }
 .out_box {
     /*将外面的box高度和内容区域congtents设置一样，宽度比内容小20px，20px的宽度足以隐藏滚动条*/
@@ -645,7 +645,7 @@ hr{
 }
 .con-Mid-Allimg{
 	padding: 10px;
-	overflow: hidden;
+	/*overflow: hidden;*/
 }
 .con-Mid-Allimg a{
 	width: 350px;
@@ -701,16 +701,16 @@ hr{
 	top: -512.031px;
 }
 .img-opacity05{
-	height: 233.328px;
-	top: -233.328px;
+	height: 243.328px;
+	top: -243.328px;
 }
 .img-opacity06{
-	height: 232.031px;
-	top: -232.031px;
+	height: 252.031px;
+	top: -252.031px;
 }
 .img-opacity07{
-	height: 387.578px;
-	top: -387.578px;
+	height: 537.578px;
+	top: -537.578px;
 }
 
 /*图片标题*/
@@ -785,7 +785,7 @@ hr{
 /*7*/
 .con-title-07{
 	position: relative;
-	top: -650px;
+	top: -850px;
 	text-align: center;
 	color: #fff;
 }
