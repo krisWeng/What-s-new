@@ -1,0 +1,70 @@
+/*文字样式*/
+.screen1-box-inner-content p,
+.screen1-box-inner-content a,
+.screen2-box-inner a,
+.screen2-box-inner a:hover,
+.text-right-contennt,
+.text-right-contennt a,
+.text-right-contennt a:hover,
+.content-con-Top-ul li,
+.content-con-Bottom h3,
+.footer-box-left,
+.con-title-03-p,
+.list-Box-p,
+.screen01-btn a{
+	font-family: Montserrat;
+    text-transform: uppercase;
+    line-height: 1.4em;
+    letter-spacing: .15em;
+    font-weight: 700;
+    font-style: normal;
+    font-size: .75em;
+}
+
+.screen1-box-inner-content h2,
+.screen2-box-inner h2,
+.screen01-title h1{
+    font-family: Lato;
+    text-transform: none;
+    line-height: 1em;
+    letter-spacing: 0;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 3.5em;
+    color: #fff;
+}
+
+.Image-title-p01 h1{
+    font-family: Lato;
+    text-transform: none;
+    line-height: 1em;
+    letter-spacing: 0;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 3.5em;
+}
+.Image-title-p02 h2{
+    font-family: Lato;
+    text-transform: none;
+    line-height: 1.4em;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 1.15em;
+}
+.page-content-left,
+.screen-box-right p{
+    font-family: "Open Sans";
+    line-height: 1.8em;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 1em;
+}
+
+.page-content-left p{
+    font-family: "Open Sans";
+    line-height: 1.8em;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 1.15em;
+}
+
